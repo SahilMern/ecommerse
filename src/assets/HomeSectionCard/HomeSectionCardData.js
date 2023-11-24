@@ -1,0 +1,29 @@
+const HomeSectionCardData = [
+    {
+        image:"https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSS2129-02-M32.jpg?v=1691069574&width=200"
+    },
+    {
+        image:"https://www.snitch.co.in/cdn/shop/files/4MSS2486-01-M40.webp?v=1699078624"
+    },
+    {
+        image:"https://cdn.shopify.com/s/files/1/0420/7073/7058/products/geovany48151.jpg?v=1669095190&width=200"
+    },
+    {
+        image:"https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Snitch_March22_0185.jpg?v=1648125424&width=200"
+    },
+    {
+        image:"https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Lazar3230_c88f2c37-e07a-4963-89c4-0de965799ed6.jpg?v=1664614554&width=200"
+    },
+    {
+        image:"https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Lazar3230_c88f2c37-e07a-4963-89c4-0de965799ed6.jpg?v=1664614554&width=200"
+    },
+    {
+        image:"https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Lazar3230_c88f2c37-e07a-4963-89c4-0de965799ed6.jpg?v=1664614554&width=200"
+    },{
+        image:"https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Lazar3230_c88f2c37-e07a-4963-89c4-0de965799ed6.jpg?v=1664614554&width=200"
+    },
+    {
+        image:"https://cdn.shopify.com/s/files/1/0420/7073/7058/products/Lazar3230_c88f2c37-e07a-4963-89c4-0de965799ed6.jpg?v=1664614554&width=200"
+    }
+]
+export default HomeSectionCardData;
